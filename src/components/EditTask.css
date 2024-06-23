@@ -1,0 +1,36 @@
+.edit-task {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .edit-task form label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  .edit-task form input,
+  .edit-task form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .edit-task form button {
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .edit-task form button:hover {
+    background: #0056b3;
+  }
+  
